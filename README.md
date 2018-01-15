@@ -1,4 +1,4 @@
-# Backup Point of Sales(POS) Calculator
+### Backup Point of Sales(POS) Calculator
 
 Quick tax calculator for when you need to calculate taxes on a series of items.
 
