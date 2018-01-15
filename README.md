@@ -11,6 +11,7 @@ Enter retail cost of each item. Out will print running totals and a list of item
 When finished, press 0 to end program and print out totals. 
 
 ### Mk II:
+Add I/O output (receipt) to text file;
 Add option to delete and change items in a list; 
 sort items into different lists to split purchases;
 
